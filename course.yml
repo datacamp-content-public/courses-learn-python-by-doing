@@ -1,4 +1,9 @@
-title: Learn Python by doing
-description: Course description goes here.
+title: Data Science Lifecycle
+description: >-
+  In this course, we will introduce the different stages of a data science
+  project and the application of Python libraries in the different stages of its
+  execution. The stages include Problem Understanding, Data Preparation,
+  Exploratory Data Analysis, Data Visualization, Predictive Analytics, and
+  Designing of a Data Product
 programming_language: python
-from: python-base-prod:v1.0.2
+from: 'python-base-prod:v1.0.2'
